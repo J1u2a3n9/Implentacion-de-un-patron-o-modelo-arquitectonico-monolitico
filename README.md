@@ -1,3 +1,14 @@
-# Implentacion de un patron o modelo arquitectonico monolitico
+# MCNuts API Monolithic architectural model
 
-El emprendimiento de ventas de botanas de mani McNuts desea expandir su forma de interatuar con sus clientes por lo cual se desarrollo una aplicacion WEB (McNuts API) la cual inicialmente permite interactuar mediante cualquier extension las peticiones HTTP REST que se realicen sobre las entidades de los clientes y manis, la funcionalidad de la aplicacion web se basa en que se puede realizar las operaciones CRUD en ambas entidades, para el desarrollo de esta aplicacion se uso el patron de arquitectura monolítica basada en capas o layer
+![147183119_491843355551038_4736773095611486819_n](https://user-images.githubusercontent.com/74753713/147301138-a618d11b-c980-493f-9fa2-faf8278498fb.jpg)
+
+
+
+# LANGUAGE
+* C#
+
+# BUSINESS DESCRIPTION 
+The enterprise of sales of peanut snacks McNuts wants to expand its way of interacting with its customers so we developed a web application (McNuts API) which initially allows to interact through any extension HTTP REST requests that are made on the entities of customers and peanuts, the functionality of the web application is based on that you can perform CRUD operations on both entities, for the development of this application was used the pattern of monolithic architecture based on layers or layer
+
+# NOTE
+* The c4 diagrams can be found as assets in the repository.
